@@ -25,4 +25,4 @@
 
 ## windows 下运行图
 
-![](https://github.com/ixlang/SecretWatermark/blob/master/preview.png)
+![](https://github.com/ixlang/SecretWatermark/blob/master/preview.jpg)
