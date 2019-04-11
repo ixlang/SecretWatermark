@@ -22,3 +22,7 @@
 1.点击打开/查看图片，选择要查看水印的图片，即可在预览区域显示水印信息。
 
 此项目可进行任意用途的二次开发和分发。
+
+## windows 下运行图
+
+![](https://github.com/ixlang/SecretWatermark/blob/master/preview.png)
