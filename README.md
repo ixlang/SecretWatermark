@@ -3,12 +3,12 @@
 
 此项目支持windows、linux和mac平台
 
-##编译方法,使用XStudio打开SecretWatermark.xprj,F5即可
+## 编译方法,使用XStudio打开SecretWatermark.xprj,F5即可
 此项目依赖qx 和fftw包，如编译不能通过，打开[项目属性]将依赖库全部删除，然后用菜单[工具] -> [包管理]重新将包qt5.9.1和fftw添加到工程后再编译。
 
 fftw包如果XStudio没有自带请到libraries去下载 fftw.xp 然后使用菜单[工具] -> [包管理]导入.
 
-##使用方法:
+## 使用方法:
 1.点击打开/查看图片，选择要添加水印的图片。
 2.点击添加水印，选择水印图片。
 3.查看预览效果，并调整参数。
