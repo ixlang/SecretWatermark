@@ -52,7 +52,7 @@
          <item>
           <widget class="QLabel" name="label_2">
            <property name="text">
-            <string>加水印图</string>
+            <string>生成/水印预览</string>
            </property>
            <property name="alignment">
             <set>Qt::AlignCenter</set>
@@ -78,7 +78,7 @@
          <item>
           <widget class="QLabel" name="label_3">
            <property name="text">
-            <string>提取效果</string>
+            <string>频域图像</string>
            </property>
            <property name="alignment">
             <set>Qt::AlignCenter</set>
