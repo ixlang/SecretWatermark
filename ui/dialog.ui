@@ -113,9 +113,9 @@
       <number>0</number>
      </property>
      <item>
-      <widget class="QPushButton" name="btnAdd">
+      <widget class="QPushButton" name="btnOk">
        <property name="text">
-        <string>选择水印图片</string>
+        <string>选择/查看图片</string>
        </property>
       </widget>
      </item>
@@ -163,9 +163,9 @@
        <number>0</number>
       </property>
       <item>
-       <widget class="QPushButton" name="btnOk">
+       <widget class="QPushButton" name="btnAdd">
         <property name="text">
-         <string>选择/查看图片</string>
+         <string>选择水印图片</string>
         </property>
        </widget>
       </item>
